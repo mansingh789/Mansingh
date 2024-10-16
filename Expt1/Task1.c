@@ -1,16 +1,21 @@
-#include<stdio.h>
-   int main(){
-       
-       int num;
-        printf("Enter Number: ");
-        scanf("%d",&num);
+#include <stdio.h>
+int main()
+{
+    int phy ,chem ,math ,avg;
 
-        if(num%2==0){
-            printf("%d is Even",num);
-        }else{
-            printf("%d is Odd",num);
-        }
+    printf("\t\t\t***Student Eligibility calculator***\n\n\n");
+    printf("Enter Physics Marks :");
+    scanf("%d",&phy);
+    printf("\nEnter Chemistry Marks :");
+    scanf("%d",&chem);
+    printf("\nEnter Maths Marks :");
+    scanf("%d",&math);
 
-        return 0;
-   }
-   
+    avg=(phy+chem+math)/3;
+
+    printf("PCM Average = %d\n", avg);
+    avg>=50?printf("You Are Eligible for admission"):printf("You Are Not Eligible For Adimission ");
+
+    return 0;
+
+}

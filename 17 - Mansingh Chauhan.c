@@ -1,7 +1,7 @@
 /*
   Roll No.:17 
   Student Name:Mansingh Chauhan 
-  Program Title:Program for find area of quarter circle
+  Program Title:Program to find area of quarter circle
   
 
   Task Given By:

@@ -1,3 +1,11 @@
+/*
+  Title      :-WAP to print your name, age, class, division and UIN on the screen. Use 
+               escape sequences to properly format the output.
+  Name       :-Mansingh Chauhan
+  Division.  :-F.E.(ECS) - E
+  Roll No    :-17
+  UIN        :-241S018
+*/
 #include<stdio.h>
 int main() 
 {    

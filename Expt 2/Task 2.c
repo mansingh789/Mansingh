@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main()
 {
     int start_num,end_num,sum=0,1;

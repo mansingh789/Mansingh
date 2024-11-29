@@ -12,7 +12,7 @@
      printf("\t\t\t\t\t*****Menu Driven Calculator*****\n");
      float a, b, result;
      char operation, cont;
-  
+    
      printf("+:-Addition\n");
      printf("-:-Subtraction\n");
      printf("*:-Multiplication\n");
@@ -77,3 +77,11 @@
     goto Start; // Go back to start of the menu
  return 0;
  }
+ /* OUTPUT
+Enter the Num-1:-90
+Enter the Num-2:-890
+Enter the operation:-+
+90.00 + 890.00 = 980.00
+Continue ? (Y/N):N
+Thank you for using Calculator
+*/

@@ -2,6 +2,7 @@
 
 int main() {
     int rows, colms;
+        printf("\t\tSUM OF TWO MATRICES\n\n");
         printf("Enter the number of rows: ");
         scanf("%d", &rows);
         printf("Enter the number of columns: ");

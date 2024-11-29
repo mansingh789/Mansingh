@@ -1,6 +1,6 @@
 /*
-  Title      :- WAP to get students PCM marks from the user and find the average. Use conditional 
-              operator to print if the student is eligible for admission. Eligibility criteria is 50% in PCM.
+  Title      :-WAP to find the length of a string without using library function.
+
   Name       :-Mansingh Chauhan
   Division.  :-F.E.(ECS) - E
   Roll No    :-17

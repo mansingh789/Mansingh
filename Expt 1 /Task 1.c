@@ -17,3 +17,11 @@ int main()
         
         return 0;
 }
+
+/*Output 
+Full Name       : Mansingh Chauhan
+Age     : 17
+Class   : FE
+Division        : E
+UIN     : 241S018
+  */
